@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Bug.png?raw=true" width="100" />
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Bug.png?raw=true" width="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Comet.png?raw=true" width="150" />
 </p>
+
 
 #  Hello, I'm Himanshu Lohokane
 
