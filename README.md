@@ -27,9 +27,8 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 - 🔭 Currently working on **computer vision models** and **IoT robotics projects**
 - 🌱 Exploring **deep learning architectures** and **embedded AI systems**
 - 🎯 Building **AI-powered applications** with deployment focus
-- 💡 Interested in **ethical hacking**, **music technology**, and **fitness tech**
+- 💡 Interested in **ethical hacking**, and **deep learning**
 - 🤖 Creating **Android apps for IoT devices** and **real-time ML inference**
-- ⚡ Fun fact: **I turn Raspberry Pis into intelligent robots!**
 
 ---
 
@@ -40,15 +39,13 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 ### Core Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### AI/ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Robotics & IoT
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -58,6 +55,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 ### Web & Mobile (for ML Deployment)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -68,9 +66,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/bluetooth-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 </div>
 
@@ -154,18 +150,15 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu-Lohokane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-lohokane-6618a8259)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohokanehimanshu@gmail.com)
 
 </div>
 
----
-
 <div align="center">
+  <div style="margin-bottom: 20px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+    <h3 style="color: white; margin: 0; font-size: 1.2em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      💭 Dream like a visionary. Solve like an engineer.
+    </h3>
+  </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-  ### 🤖 "The best way to predict the future is to invent it." - Alan Kay
-  
-  **Thanks for visiting! Let's innovate and build intelligent systems together! 🚀**
-  
 </div>
