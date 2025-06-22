@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🔥 Streak Stats:
-[![Piyush's GitHub Streak](https://streak-stats.demolab.com?user=Himanshu-Lohokane&theme=radical)](https://git.io/streak-stats)
+[![Himanshu's GitHub Streak](https://streak-stats.demolab.com?user=Himanshu-Lohokane&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -29,12 +29,10 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### ⌨️ LeetCode Stats:
-<details>
- <summary><b>Click to view stats</b></summary><br>
+
   <p align="center">
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himanshu_lohokane?theme=radical&font=Nunito&ext=heatmap" />  
   </p>
-</details>
 
 ---
 
