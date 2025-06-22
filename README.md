@@ -82,7 +82,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **🚦 Live Traffic Surveillance [ongoing]** | YOLO, OpenCV, Python | Aerial camera feed → rule violation detection → automated license plate ticketing |
-| **🚗 Raspberry Pi RC Car with RTOD** | RPi, Python, Motor Control | 800gm rc car with Pi 5 and Real time Object Detection via PiCAM |
+| **🚗 Raspberry Pi RC Car with video streaming** | RPi, Python, Motor Control | 800gm rc car with Pi 5 and Real time video streaming via Gstreamer |
 | **🛡️ Smart Helmet** | MPU6050, Embedded C | Helmet-embedded sensor system for impact detection and smart SOS |
 | **📱 Android IoT Controllers** | Android, Bluetooth, WebSocket | Custom apps controlling Pi-based systems and servo's |
 | **💻 Health Tracker For Gaming** | Tkinter, MediaPipe, CV | Real-time posture detection merged with system process monitoring |
