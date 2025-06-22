@@ -43,6 +43,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 ### AI/ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -50,7 +51,9 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 ### Robotics & IoT
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP%20Microcontroller-323232?style=for-the-badge&logo=esphome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GStreamer](https://img.shields.io/badge/GStreamer-4285F4?style=for-the-badge&logo=gstreamer&logoColor=white)
 
 ### Web & Mobile (for ML Deployment)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -139,7 +142,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 - 🧠 Learning **deep learning architectures** for computer vision
 - 🤖 Building **intelligent IoT systems** with edge AI
 - 🚀 Deploying **ML models** through web applications  
-- 🛡️ Interested in **cyberscurity** skills and **penetration testing**
+- 🛡️ Interested in **cyberecurity** skills and **penetration testing**
 - 💪 Integrating **AI/DL into fitness** and **health monitoring**
 
 ---
