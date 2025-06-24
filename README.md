@@ -114,9 +114,7 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Lohokane&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Himanshu-Lohokane&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 ---
 
