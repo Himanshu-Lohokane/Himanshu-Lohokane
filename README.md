@@ -4,15 +4,23 @@
   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Comet.png?raw=true" width="150" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Lohokane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20RAG%20Specialist%20|%20Full%20Stack%20Developer&descAlignY=52&descSize=18"/>
-</p>
-
 <div align="center">
+  
+# 👋 Hello, I'm Himanshu Lohokane
+
+### 🧠 AI Engineer | 🔍 RAG Specialist | 🚀 Full Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=600&lines=Building+Production+RAG+Systems;Graph+Database+Architect+(Neo4j%2C+GraphRAG);Full+Stack+AI+Applications;SIH+2025+National+Finalist" alt="Typing SVG" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Himanshu-Lohokane&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
 
 **AI Engineer** building production-ready RAG systems, graph databases, and intelligent automation.
 
