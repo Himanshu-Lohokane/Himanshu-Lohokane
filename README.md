@@ -1,81 +1,217 @@
 <p align="center">
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Bug.png?raw=true" width="150" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Comet.png?raw=true" width="150" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Lohokane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20RAG%20Specialist%20|%20Full%20Stack%20Developer&descAlignY=52&descSize=18"/>
 </p>
 
 <div align="center">
-  
-# 👋 Hello, I'm Himanshu Lohokane
 
-### 🧠 AI/ML Engineer | 🤖 Robotics Enthusiast | 🔐 Ethical Hacker
+### 🏆 **Smart India Hackathon 2025 National Finalist** 🏆
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=500&lines=AI%2FML+Engineer;Computer+Vision+Developer;Robotics+%26+IoT+Enthusiast;Ethical+Hacking+Intern;Music+Tech+Explorer" alt="Typing SVG" />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Himanshu-Lohokane&color=blueviolet&style=flat-square)
+[![SIH Badge](https://img.shields.io/badge/SIH%202025-National%20Finalist-gold?style=for-the-badge&logo=government&logoColor=white)](https://www.sih.gov.in/)
+[![ICRTAIDS](https://img.shields.io/badge/ICRTAIDS%202025-1st%20Prize%20Winner-brightgreen?style=for-the-badge)](https://github.com/Himanshu-Lohokane)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm an AI/ML engineer passionate about computer vision, robotics, and building intelligent systems. Currently pursuing **BE in Artificial Intelligence & Data Science**, I love creating solutions that bridge the gap between cutting-edge AI research and real-world applications.
+<a href="https://v0-syndicate-x-website.vercel.app/" target="_blank">
+  <img src="https://i.ibb.co/yc21bJsf/Syndicate-Logo-Light.png" alt="Syndicate Logo" width="200">
+</a>
 
-- 🔭 Currently working on **computer vision models** and **IoT robotics projects**
-- 🌱 Exploring **deep learning architectures** and **embedded AI systems**
-- 🎯 Building **AI-powered applications** with deployment focus
-- 💡 Interested in **ethical hacking**, and **deep learning**
-- 🤖 Creating **Android apps for IoT devices** and **real-time ML inference**
+**Member of Syndicate** - A dynamic tech community fostering innovation and collaboration
+
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 👨‍💻 About Me
+
+```python
+class HimanshuLohokane:
+    def __init__(self):
+        self.name = "Himanshu Lohokane"
+        self.role = "AI Engineer Intern @ ThreatActix, Pune"
+        self.education = {
+            "degree": "B.E. in Artificial Intelligence & Data Science (CSE)",
+            "university": "ADYPSOE, Pune",
+            "duration": "2024 - 2027"
+        }
+        self.previous_education = {
+            "diploma": "AI & Machine Learning",
+            "institute": "AISSMS Polytechnic, Pune",
+            "duration": "2021 - 2024"
+        }
+        
+    def achievements(self):
+        return [
+            "🏆 Smart India Hackathon (SIH) 2025 - National Finalist",
+            "🥇 ICRTAIDS 2025 - 1st Prize (AI Posture Detection)",
+            "🥇 Best IoT Project Award - 1st Prize (Custom FPV RC Car)",
+            "🥈 Brainergy Quiz 2025 - Runner-up",
+            "🥈 Technovanza 2025 Code Debug - Runner-up",
+            "📊 15+ Hackathons Participated | 10+ Tech Events Attended"
+        ]
+    
+    def skills(self):
+        return {
+            "languages": ["Python", "C/C++", "Java", "JavaScript", "TypeScript", "SQL", "Cypher"],
+            "ai_ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "LangChain", 
+                                  "LangGraph", "LlamaIndex", "Ollama", "Hugging Face", "n8n"],
+            "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", 
+                             "Deep Learning", "NLP", "Computer Vision", "MLOps"],
+            "vector_databases": ["Pinecone", "FAISS", "ChromaDB"],
+            "graph_databases": ["Neo4j", "GraphRAG", "GraphDB"],
+            "cloud": ["AWS (EC2, S3, S3 Vectors)", "Google Cloud (Compute Engine, Buckets)"],
+            "backend": ["FastAPI", "Firebase", "Supabase", "Vercel", "Render"],
+            "frontend": ["ReactJS", "NextJS"],
+            "hardware_iot": ["Linux", "Raspberry Pi", "Arduino", "ESP"]
+        }
+    
+    def current_work(self):
+        return {
+            "company": "ThreatActix",
+            "focus": [
+                "AI-based labelling & filtering with ML models",
+                "Neo4j graph database for threat actor mapping",
+                "Interactive graph visualization with country-based filters",
+                "Deployment on company VMs for secure isolated operation"
+            ]
+        }
+    
+    def certifications(self):
+        return [
+            "Fundamentals of Deep Learning - NVIDIA",
+            "Getting Started with AI - IBM",
+            "AI Builders Lab Bootcamp - Google & Hack2Skill",
+            "Prompt Engineering Professional - IMTF"
+        ]
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Robotics & IoT
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP%20Microcontroller-323232?style=for-the-badge&logo=esphome&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GStreamer](https://img.shields.io/badge/GStreamer-4285F4?style=for-the-badge&logo=gstreamer&logoColor=white)
+### Vector & Graph Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-### Web & Mobile (for ML Deployment)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Databases & Deployment
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Cloud & Backend
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Hardware/IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏆 SIH 2025 Finalist Project
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### [DataTrack - KMRL Document Automation](https://github.com/kasimlohar/DataTrack-KMRL-SIH2025)
+**🏅 Smart India Hackathon 2025 National Finalist**
+
+AI-powered document processing system for Kochi Metro Rail Ltd.
+- 📄 Processes **1000+ daily documents** with bilingual OCR (English + Malayalam)
+- 🤖 AI classification across **8 categories** with **92%+ accuracy**
+- 🔍 **RAG with Pinecone** vector search for intelligent document retrieval
+- ⚡ Reduced processing time from **1 hour → 15 seconds**
+
+`Next.js` `FastAPI` `Google Gemini` `Vision OCR` `Pinecone` `Supabase`
+
+</td>
+<td width="50%">
+
+### [EnterpriseRAG - Document Intelligence](https://enterprise-rag.vercel.app/)
+**Production-Ready Multimodal RAG System**
+
+Enterprise document search across 10+ formats.
+- 📚 Multimodal search: **PDF, DOCX, video, audio, images**
+- 🧠 Powered by **Google Gemini** + **Pinecone** vector DB
+- 🔗 Source attribution linking AI responses to original documents
+- ☁️ Cross-document semantic search via **AWS S3**
+
+`React` `FastAPI` `Pinecone` `AWS S3` `Gemini` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [AI Posture Detection System](https://drive.google.com/drive/folders/1t5HNRJG1o4UgPWj8nZjU8ZZ8amrI8k7X)
+**🥇 1st Prize Winner - ICRTAIDS 2025**
+
+Real-time ergonomic posture monitoring.
+- 🎯 Detects posture deviations at **30+ FPS**
+- 🦴 Skeletal keypoint tracking with **MediaPipe & TensorFlow PoseNet**
+- ⚠️ Intelligent alert system for corrective feedback
+- 💼 Addresses workplace health concerns
+
+`MediaPipe` `TensorFlow` `OpenCV` `Python`
+
+</td>
+<td width="50%">
+
+### Advanced Music Source Separation
+**Hybrid Transformer-Demucs Architecture**
+
+AI-powered audio stem separation.
+- 🎵 Isolates vocals and instrumentals using **hybrid architecture**
+- 🔊 Combines **Demucs with self-attention transformers**
+- 🧠 Multi-network pipeline: **U-Net, RNN, CNN**
+- ⚡ Optimized for both **CPU and CUDA GPU**
+
+`PyTorch` `Transformers` `Demucs` `CUDA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## � More Projects
 
 <div align="center">
 
@@ -89,15 +225,16 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 </div>
 
-## 🏛️ Clubs & Communities
+---
+
+## �💼 Experience
 
 <div align="center">
 
-<a href="https://v0-syndicate-x-website.vercel.app/" target="_blank">
-  <img src="https://i.ibb.co/yc21bJsf/Syndicate-Logo-Light.png" alt="Syndicate Logo" width="200">
-</a>
-
-**Member of Syndicate** - A dynamic tech community fostering innovation and collaboration
+| Company | Role | Duration | Focus |
+|---------|------|----------|-------|
+| **ThreatActix** | AI Engineer Intern | Sep 2025 - Present | Neo4j GraphDB, ML-based threat intelligence, Graph visualization |
+| **IANT** | Cyber Security Intern | Jun 2023 - Aug 2023 | Vulnerability assessment, Penetration testing, Network forensics |
 
 </div>
 
@@ -114,7 +251,9 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 ## 🔥 GitHub Streak
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Himanshu-Lohokane&theme=dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Himanshu-Lohokane&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
@@ -134,14 +273,14 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 ---
 
+##  Current Focus
 
-## 🎯 Current Focus
-
-- 🧠 Learning **deep learning architectures** for computer vision
-- 🤖 Building **intelligent IoT systems** with edge AI
-- 🚀 Deploying **ML models** through web applications  
-- 🛡️ Interested in **cyberecurity** skills and **penetration testing**
-- 💪 Integrating **AI/DL into fitness** and **health monitoring**
+- 🧠 Building **RAG systems** with vector databases and graph databases
+- 🔍 Exploring **GraphRAG** and knowledge graph applications
+- 🤖 Developing **AI-powered threat intelligence** systems
+- 🚀 Deploying **production ML systems** with FastAPI & cloud platforms
+- 🛡️ Strengthening **cybersecurity** skills and penetration testing
+- 💪 Integrating **AI/DL into fitness** and health monitoring
 
 ---
 
@@ -155,11 +294,17 @@ I'm an AI/ML engineer passionate about computer vision, robotics, and building i
 
 </div>
 
+---
+
 <div align="center">
   <div style="margin-bottom: 20px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
     <h3 style="color: white; margin: 0; font-size: 1.2em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
       💭 Dream like a visionary. Solve like an engineer.
     </h3>
   </div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-Lohokane&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+
