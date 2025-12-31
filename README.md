@@ -1,25 +1,22 @@
 <p align="center">
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Bug.png?raw=true" width="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Comet.png?raw=true" width="150" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Lohokane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20RAG%20Specialist%20|%20Full%20Stack%20Developer&descAlignY=52&descSize=18"/>
 </p>
 
 <div align="center">
 
-### 🏆 **Smart India Hackathon 2025 National Finalist** 🏆
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=600&lines=Building+Production+RAG+Systems;Graph+Database+Architect+(Neo4j%2C+GraphRAG);Full+Stack+AI+Applications;SIH+2025+National+Finalist" alt="Typing SVG" />
+</p>
 
-[![SIH Badge](https://img.shields.io/badge/SIH%202025-National%20Finalist-gold?style=for-the-badge&logo=government&logoColor=white)](https://www.sih.gov.in/)
-[![ICRTAIDS](https://img.shields.io/badge/ICRTAIDS%202025-1st%20Prize%20Winner-brightgreen?style=for-the-badge)](https://github.com/Himanshu-Lohokane)
+**AI Engineer** building production-ready RAG systems, graph databases, and intelligent automation.
 
-</div>
-
----
-
-<div align="center">
-
-<a href="https://v0-syndicate-x-website.vercel.app/" target="_blank">
-  <img src="https://i.ibb.co/yc21bJsf/Syndicate-Logo-Light.png" alt="Syndicate Logo" width="200">
-</a>
-
-**Member of Syndicate** - A dynamic tech community fostering innovation and collaboration
+🎓 B.E. in AI & Data Science @ ADYPSOE, Pune | 🏆 **SIH 2025 National Finalist**
 
 </div>
 
@@ -30,62 +27,25 @@
 ```python
 class HimanshuLohokane:
     def __init__(self):
-        self.name = "Himanshu Lohokane"
-        self.role = "AI Engineer Intern @ ThreatActix, Pune"
-        self.education = {
-            "degree": "B.E. in Artificial Intelligence & Data Science (CSE)",
-            "university": "ADYPSOE, Pune",
-            "duration": "2024 - 2027"
-        }
-        self.previous_education = {
-            "diploma": "AI & Machine Learning",
-            "institute": "AISSMS Polytechnic, Pune",
-            "duration": "2021 - 2024"
-        }
+        self.role = "AI Engineer Intern @ ThreatActix"
+        self.location = "Pune, India"
+        self.education = "B.E. in AI & Data Science (CSE) - ADYPSOE"
         
-    def achievements(self):
+    def what_i_do(self):
         return [
-            "🏆 Smart India Hackathon (SIH) 2025 - National Finalist",
-            "🥇 ICRTAIDS 2025 - 1st Prize (AI Posture Detection)",
-            "🥇 Best IoT Project Award - 1st Prize (Custom FPV RC Car)",
-            "🥈 Brainergy Quiz 2025 - Runner-up",
-            "🥈 Technovanza 2025 Code Debug - Runner-up",
-            "📊 15+ Hackathons Participated | 10+ Tech Events Attended"
+            "Build & deploy enterprise RAG systems with vector databases",
+            "Design graph database architectures (Neo4j, GraphRAG)",
+            "Develop full-stack AI applications (FastAPI + React/Next.js)",
+            "Create computer vision & deep learning solutions",
+            "Ship production ML systems on AWS & GCP"
         ]
     
-    def skills(self):
+    def highlights(self):
         return {
-            "languages": ["Python", "C/C++", "Java", "JavaScript", "TypeScript", "SQL", "Cypher"],
-            "ai_ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "LangChain", 
-                                  "LangGraph", "LlamaIndex", "Ollama", "Hugging Face", "n8n"],
-            "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", 
-                             "Deep Learning", "NLP", "Computer Vision", "MLOps"],
-            "vector_databases": ["Pinecone", "FAISS", "ChromaDB"],
-            "graph_databases": ["Neo4j", "GraphRAG", "GraphDB"],
-            "cloud": ["AWS (EC2, S3, S3 Vectors)", "Google Cloud (Compute Engine, Buckets)"],
-            "backend": ["FastAPI", "Firebase", "Supabase", "Vercel", "Render"],
-            "frontend": ["ReactJS", "NextJS"],
-            "hardware_iot": ["Linux", "Raspberry Pi", "Arduino", "ESP"]
+            "SIH 2025": "National Finalist - AI Document Automation for KMRL",
+            "hackathons": "15+ participated | Multiple wins",
+            "certifications": ["NVIDIA Deep Learning", "IBM AI", "Google AI Builders"]
         }
-    
-    def current_work(self):
-        return {
-            "company": "ThreatActix",
-            "focus": [
-                "AI-based labelling & filtering with ML models",
-                "Neo4j graph database for threat actor mapping",
-                "Interactive graph visualization with country-based filters",
-                "Deployment on company VMs for secure isolated operation"
-            ]
-        }
-    
-    def certifications(self):
-        return [
-            "Fundamentals of Deep Learning - NVIDIA",
-            "Getting Started with AI - IBM",
-            "AI Builders Lab Bootcamp - Google & Hack2Skill",
-            "Prompt Engineering Professional - IMTF"
-        ]
 ```
 
 ---
@@ -140,74 +100,12 @@ class HimanshuLohokane:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🏆 SIH 2025 Finalist Project
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### [DataTrack - KMRL Document Automation](https://github.com/kasimlohar/DataTrack-KMRL-SIH2025)
-**🏅 Smart India Hackathon 2025 National Finalist**
-
-AI-powered document processing system for Kochi Metro Rail Ltd.
-- 📄 Processes **1000+ daily documents** with bilingual OCR (English + Malayalam)
-- 🤖 AI classification across **8 categories** with **92%+ accuracy**
-- 🔍 **RAG with Pinecone** vector search for intelligent document retrieval
-- ⚡ Reduced processing time from **1 hour → 15 seconds**
-
-`Next.js` `FastAPI` `Google Gemini` `Vision OCR` `Pinecone` `Supabase`
-
-</td>
-<td width="50%">
-
-### [EnterpriseRAG - Document Intelligence](https://enterprise-rag.vercel.app/)
-**Production-Ready Multimodal RAG System**
-
-Enterprise document search across 10+ formats.
-- 📚 Multimodal search: **PDF, DOCX, video, audio, images**
-- 🧠 Powered by **Google Gemini** + **Pinecone** vector DB
-- 🔗 Source attribution linking AI responses to original documents
-- ☁️ Cross-document semantic search via **AWS S3**
-
-`React` `FastAPI` `Pinecone` `AWS S3` `Gemini` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [AI Posture Detection System](https://drive.google.com/drive/folders/1t5HNRJG1o4UgPWj8nZjU8ZZ8amrI8k7X)
-**🥇 1st Prize Winner - ICRTAIDS 2025**
-
-Real-time ergonomic posture monitoring.
-- 🎯 Detects posture deviations at **30+ FPS**
-- 🦴 Skeletal keypoint tracking with **MediaPipe & TensorFlow PoseNet**
-- ⚠️ Intelligent alert system for corrective feedback
-- 💼 Addresses workplace health concerns
-
-`MediaPipe` `TensorFlow` `OpenCV` `Python`
-
-</td>
-<td width="50%">
-
-### Advanced Music Source Separation
-**Hybrid Transformer-Demucs Architecture**
-
-AI-powered audio stem separation.
-- 🎵 Isolates vocals and instrumentals using **hybrid architecture**
-- 🔊 Combines **Demucs with self-attention transformers**
-- 🧠 Multi-network pipeline: **U-Net, RNN, CNN**
-- ⚡ Optimized for both **CPU and CUDA GPU**
-
-`PyTorch` `Transformers` `Demucs` `CUDA`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[DataTrack - KMRL](https://github.com/kasimlohar/DataTrack-KMRL-SIH2025)** 🏆 *SIH 2025 Finalist* | AI document automation for Kochi Metro — processes 1000+ docs/day with bilingual OCR (English + Malayalam), AI classification (92%+ accuracy), RAG-powered semantic search, and **smart routing to departments** via real-time SSE notifications | `Next.js` `FastAPI` `Google Cloud` `Vision OCR` `Pinecone` `Supabase` |
+| **[EnterpriseRAG](https://enterprise-rag.vercel.app/)** | Production multimodal RAG system — semantic search across **10+ formats** (PDF, DOCX, video, audio, images), source attribution linking responses to original documents, cross-document knowledge retrieval | `React` `FastAPI` `Gemini` `Pinecone` `AWS S3` `MongoDB` |
+| **[AI Posture Detection](https://drive.google.com/drive/folders/1t5HNRJG1o4UgPWj8nZjU8ZZ8amrI8k7X)** 🥇 *1st Prize ICRTAIDS* | Real-time ergonomic monitoring system — skeletal keypoint tracking at **30+ FPS**, intelligent deviation alerts for workplace health | `MediaPipe` `TensorFlow PoseNet` `OpenCV` `Python` |
+| **Music Source Separation** | Hybrid Transformer-Demucs architecture for vocal/instrumental isolation — combines **U-Net, RNN, CNN** with self-attention, optimized for CPU & CUDA | `PyTorch` `Transformers` `Demucs` `CUDA` |
 
 ---
 
@@ -221,7 +119,7 @@ AI-powered audio stem separation.
 | **🚗 Raspberry Pi RC Car with video streaming** | RPi, Python, Motor Control | 800gm rc car with Pi 5 and Real time video streaming via Gstreamer |
 | **🛡️ Smart Helmet** | MPU6050, Embedded C | Helmet-embedded sensor system for impact detection and smart SOS |
 | **📱 Android IoT Controllers** | Android, Bluetooth, WebSocket | Custom apps controlling Pi-based systems and servo's |
-| **💻 Health Tracker For Gaming** | Tkinter, MediaPipe, CV | Real-time posture detection merged with system process monitoring |
+
 
 </div>
 
@@ -240,23 +138,6 @@ AI-powered audio stem separation.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Lohokane&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Lohokane&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Himanshu-Lohokane&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
----
-
 ## 💻 LeetCode Journey
 
 <div align="center">
@@ -265,22 +146,13 @@ AI-powered audio stem separation.
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Lohokane&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
-##  Current Focus
-
-- 🧠 Building **RAG systems** with vector databases and graph databases
-- 🔍 Exploring **GraphRAG** and knowledge graph applications
-- 🤖 Developing **AI-powered threat intelligence** systems
-- 🚀 Deploying **production ML systems** with FastAPI & cloud platforms
-- 🛡️ Strengthening **cybersecurity** skills and penetration testing
-- 💪 Integrating **AI/DL into fitness** and health monitoring
+- 🧠 Building & deploying **enterprise RAG systems** with vector databases
+- 🔍 Designing **knowledge graphs** and GraphRAG architectures
+- 🚀 Shipping **production ML pipelines** on cloud platforms
+- 🤖 Exploring **agentic AI** and multi-agent workflows
+- ⚡ Optimizing **real-time computer vision** applications
 
 ---
 
