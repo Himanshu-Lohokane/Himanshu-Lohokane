@@ -149,8 +149,9 @@ class HimanshuLohokane:
 ## 🎯 Current Focus
 
 - 🧠 Building & deploying **enterprise RAG systems** with vector databases
+- � Deep diving into **deep learning architectures** — CNNs, Transformers, attention mechanisms
 - 🔍 Designing **knowledge graphs** and GraphRAG architectures
-- 🚀 Shipping **production ML pipelines** on cloud platforms
+- 🚀 Shipping **production ML pipelines** on cloud platforms (AWS, GCP)
 - 🤖 Exploring **agentic AI** and multi-agent workflows
 - ⚡ Optimizing **real-time computer vision** applications
 
